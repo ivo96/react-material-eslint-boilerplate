@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "eslint.options": { "configFile": "project_path/.eslintrc.json" }
+}
